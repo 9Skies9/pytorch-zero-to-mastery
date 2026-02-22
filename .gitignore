@@ -1,0 +1,63 @@
+# Python caches/environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build/output artifacts
+build/
+dist/
+*.egg-info/
+
+# Model artifacts (keep local, don't upload)
+*.pt
+*.pth
+*.ckpt
+
+# Dataset/archive artifacts (keep local, don't upload)
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.bz2
+*.xz
+
+# Experiment tracking outputs
+runs/
+lightning_logs/
+wandb/
+
+# Data folders: ignore contents but keep folder-level README placeholders
+**/data/*
+**/Data/*
+!**/data/README.md
+!**/Data/README.md
+
+# Common downloaded datasets: ignore contents but keep README placeholders
+**/FashionMNIST/*
+!**/FashionMNIST/README.md
+**/cifar-10-batches-py/*
+!**/cifar-10-batches-py/README.md
+
+# Chapter-specific local datasets
+5 Custom Datasets/train/*
+5 Custom Datasets/test/*
+!5 Custom Datasets/train/README.md
+!5 Custom Datasets/test/README.md
