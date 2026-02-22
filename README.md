@@ -1,6 +1,8 @@
 # PyTorch for Deep Learning - Personal Follow-Along Notes
 
-This repository contains my personal chapter-by-chapter follow-along work for a PyTorch deep learning course.
+Notes + homework follow-along for [mrdbourke](https://github.com/mrdbourke)'s PyTorch class.
+
+This repository contains my personal chapter-by-chapter follow-along work for the course.
 
 ## Original Course Attribution
 The original course material and core teaching structure are from Daniel Bourke's PyTorch course/repository:
