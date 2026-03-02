@@ -1,4 +1,4 @@
-# PyTorch for Deep Learning - Personal Follow-Along Notes
+# PyTorch for Deep Learning - Personal HW + Notes
 
 Notes + homework follow-along for [mrdbourke](https://github.com/mrdbourke)'s PyTorch class.
 
